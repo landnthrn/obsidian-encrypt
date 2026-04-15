@@ -5,12 +5,12 @@
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
-		"build": "npx tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
+		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
 		"version": "node version-bump.mjs",
-		"dev-tool-decrypt": "npx tsc -noEmit -skipLibCheck && node esbuild-tool-decrypt.config.mjs",
-		"build-tool-decrypt": "npx tsc -noEmit -skipLibCheck && node esbuild-tool-decrypt.config.mjs production",
-		"dev-tool-mdenc": "npx tsc -noEmit -skipLibCheck && node esbuild-tool-mdenc.config.mjs",
-		"build-tool-mdenc": "npx tsc -noEmit -skipLibCheck && node esbuild-tool-mdenc.config.mjs production"
+		"dev-tool-decrypt": "tsc -noEmit -skipLibCheck && node esbuild-tool-decrypt.config.mjs",
+		"build-tool-decrypt": "tsc -noEmit -skipLibCheck && node esbuild-tool-decrypt.config.mjs production",
+		"dev-tool-mdenc": "tsc -noEmit -skipLibCheck && node esbuild-tool-mdenc.config.mjs",
+		"build-tool-mdenc": "tsc -noEmit -skipLibCheck && node esbuild-tool-mdenc.config.mjs production"
 	},
 	"keywords": [],
 	"author": "",
