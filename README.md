@@ -31,14 +31,12 @@ Encrypted notes are never decrypted to disk giving you peace-of-mind that the de
 
 ## Ongoing Maintenance and Development
 
-If you find this plugin useful please support the ongoing maintenance and development by:
+If you find this plugin useful please support the creator
+
+### Developer [meld-cp](https://github.com/meld-cp) Links:
 * [Staring ⭐ this repo](https://github.com/meld-cp/obsidian-encrypt)
 * [Buying me a coffee ☕](https://www.buymeacoffee.com/cleon)
 * [Sponsoring ❤️ me](https://github.com/sponsors/meld-cp).
-
-Thank you for your support 😊
-
-<a href="https://www.buymeacoffee.com/cleon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;" ></a>
 
 
 ## Latest Changes
