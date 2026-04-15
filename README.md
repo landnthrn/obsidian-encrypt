@@ -1,4 +1,8 @@
 # [Meld Encrypt](https://github.com/meld-cp/obsidian-encrypt) Plugin for Obsidian
+## Forked description
+
+This fork tweaks Meld Encrypt's in-note selection flow: fenced blocks tagged `encrypt` get a collapsible reading UI, Decrypt/Encrypt buttons, and the same modals as the stock commands. If the editor buffer differs from disk, the plugin falls back to the file on disk. Cryptography and core encrypt logic are unchanged from upstream.
+
 
 **Create Encrypted Notes Within Your [Obsidian.md](https://obsidian.md/) Vault**
 
